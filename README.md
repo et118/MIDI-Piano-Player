@@ -1,6 +1,11 @@
 # MIDI-Piano-Player
 ## A simple graphical virtual-piano player made in java that can play any piano MIDI file!
 
+1. Start the application
+2. Drop a MIDI file into it 
+3. Select virtual piano application 
+4. Enjoy
+
 **DEL** to start/stop
 
 **END** to restart the song
