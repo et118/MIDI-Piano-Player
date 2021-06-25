@@ -12,5 +12,8 @@
 
 ![image](https://user-images.githubusercontent.com/51513175/123486969-58f06300-d60d-11eb-91df-e53718d22e64.png)
 
+
+**NOTE** Sometimes when playing too many notes on browser applications like [virtualpiano.net](https://virtualpiano.net/) it cant keep up and misses some notes.
+
 Big thanks to kristian for making this system-hook library!
 https://github.com/kristian/system-hook
