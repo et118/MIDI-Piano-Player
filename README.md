@@ -15,5 +15,4 @@
 
 **NOTE** Sometimes when playing too many notes on browser applications like [virtualpiano.net](https://virtualpiano.net/) it cant keep up and misses some notes.
 
-Big thanks to kristian for making this system-hook library!
-https://github.com/kristian/system-hook
+Big thanks to Kristian for making [this](https://github.com/kristian/system-hook) system-hook library!
